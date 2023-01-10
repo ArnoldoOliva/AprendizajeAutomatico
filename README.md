@@ -1,2 +1,4 @@
-# AprendizajeAutomatico
-Curso AA FCFM UANL
+# Aprendizaje Automatico
+## UANL | FCFM
+
+- [Tarea 1] ()
